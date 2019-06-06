@@ -10,7 +10,8 @@
                 "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
                 "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
                 "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-                "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+                "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include",
+                "C:/CV0037526N0-Data/work/mingw64/boost_1_70_0"
             ],
             "defines": [
                 "_DEBUG",
@@ -28,7 +29,8 @@
                     "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
                     "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
                     "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-                    "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+                    "C:/CV0037526N0-Data/work/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include",
+                    "C:/CV0037526N0-Data/work/mingw64/boost_1_70_0"
                 ]
             },
             "limitSymbolsToIncludedHeaders": true,

@@ -1,7 +1,9 @@
-#include<iostream>
+#include <iostream>
+#include <boost/dynamic_bitset.hpp>
 
 int main()
 {
-    int i = 7;
-    std::cout << "hello word" + i++ << std::endl;
+    boost::dynamic_bitset<> db(std::string("01010111"));
+    std::cout << "hello word " << db << std::endl;
+    return 0;
 }
